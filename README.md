@@ -7,7 +7,7 @@
 
 ![Demo1](pcgif1.gif)
 
-![Demo1](pcgif2.gif)
+![Demo2](pcgif2.gif)
  
 ## Requirements
  1. xCode
